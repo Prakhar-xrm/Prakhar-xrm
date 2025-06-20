@@ -1,3 +1,5 @@
+![logo](https://github.com/Prakhar-xrm/Prakhar-xrm/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner%20(1).png)
+ 
  <h1 align="center">Hi 👋, I'm Prakhar Verma</h1>
 <h3 align="center">BTech CSE AIML student | Learning Web Dev & AI</h3>
 
